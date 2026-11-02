@@ -14,7 +14,11 @@
 
 --- 
 
-<h2 align="center">Technologies</h2>
+<p align="center">
+  Technologies
+</p>
+
+---
 
 <h3 align="center">Languages</h3>
 <p align="center">

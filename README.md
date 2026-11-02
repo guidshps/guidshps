@@ -1,3 +1,4 @@
+<span style="font-size: 1.5em; font-weight: bold;">Languages</span>   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 

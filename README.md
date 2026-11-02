@@ -63,3 +63,5 @@
 [![Linktree](https://img.shields.io/badge/%20-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/guidshps)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2e39,50:4f423f,100:ffb865&height=100&section=footer" width="100%" />

@@ -1,5 +1,3 @@
-<img src="./onda.svg" width="100%" height="50" />
-  
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=E2B365&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!&repeat=false" alt="Typing SVG" />
@@ -63,5 +61,3 @@
 [![Linktree](https://img.shields.io/badge/%20-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/guidshps)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2e39,50:4f423f,100:ffb865&height=100&section=footer" width="100%" />

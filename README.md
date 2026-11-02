@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B3F3E&height=180&section=header&text=Guilherme&fontSize=50&fontColor=FFB45B&fontAlignY=40" width="100%" alt="Banner">
-</p>
-
 ## Computer Engineer Undergraduate
 
 Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.

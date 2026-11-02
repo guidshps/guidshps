@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F3C06B&height=60&section=header&animation=fadeIn" alt="Separator Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F3C06B&height=80&section=header&animation=float" alt="Animated Wave" />
 </p>
 
 <div align="center">

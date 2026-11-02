@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="9CB437D0-3111-4621-8F03-A13D1E4CB151.gif" width="700" alt="Pixel art de montanhas">
+</p>
+
 ## Computer Engineer Undergraduate
 
 Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
@@ -31,10 +35,6 @@ Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level
 
 
 ---
-
-<p align="center">
-  <img src="9CB437D0-3111-4621-8F03-A13D1E4CB151.gif" width="700" alt="Pixel art de montanhas">
-</p>
 
 <div align="center">
 

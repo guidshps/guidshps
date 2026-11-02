@@ -1,3 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 65" preserveAspectRatio="none" width="100%" height="40">
+  
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=E2B365&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!&repeat=false" alt="Typing SVG" />

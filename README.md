@@ -1,5 +1,7 @@
 <p align="center">
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E2B365&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+  
 </p>
 
 Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.

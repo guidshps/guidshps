@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
 

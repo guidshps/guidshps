@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F3C06B&height=60&section=header&animation=fadeIn" alt="Separator Wave" />
+</p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=E2B365&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!&repeat=false" alt="Typing SVG" />

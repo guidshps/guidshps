@@ -2,9 +2,8 @@
 ## Computer Engineer Undergraduate
 Hi, I'm Guilherme. I'm a programming student interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
 
-<br>
---- 
 
+## Technologies
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

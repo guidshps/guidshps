@@ -1,6 +1,6 @@
 ## Computer engineer undergraduate
 
-Hi, I'm Guilherme. I'm a computer engineer interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
+Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
 
 --- 
 

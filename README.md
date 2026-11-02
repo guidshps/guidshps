@@ -2,8 +2,6 @@
 
 Hi, I'm Guilherme. I'm a programming student interested in low-level languages and operating systems. I enjoy understanding how things work under the hood, from the hardware up to the software running on top of it.
 
-<br>
-
 --- 
 
 ## Technologies

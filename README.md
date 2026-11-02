@@ -2,7 +2,6 @@ Hi, I'm Guilherme. I'm a programming student interested in low-level languages a
 
 <br>
 ---
-<br>
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

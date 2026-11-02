@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="9CB437D0-3111-4621-8F03-A13D1E4CB151.gif" width="700" alt="Pixel art de montanhas">
-</p>
 
 ## Computer Engineer Undergraduate
 
@@ -19,6 +16,10 @@ Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level
 ![Valgrind](https://img.shields.io/badge/Valgrind-00599C?style=for-the-badge)
 
 ---
+
+<p align="center">
+  <img src="9CB437D0-3111-4621-8F03-A13D1E4CB151.gif" width="700" alt="Pixel art de montanhas">
+</p>
 
 <br>
 <br>

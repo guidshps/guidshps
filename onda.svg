@@ -6,10 +6,12 @@
       <stop offset="1" stop-color="#ffb865"/>
     </linearGradient>
   </defs>
-  <path fill="url(#g)" d="M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z">
-    <animate attributeName="d" dur="6s" repeatCount="indefinite"
-      values="M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z;
-              M0,0 H1000 V28 C750,40 500,12 250,28 C125,34 50,30 0,28 Z;
-              M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z"/>
-  </path>
+  <g transform="translate(0,40) scale(1,-1)">
+    <path fill="url(#g)" d="M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z;
+                M0,0 H1000 V28 C750,40 500,12 250,28 C125,34 50,30 0,28 Z;
+                M0,0 H1000 V28 C750,12 500,40 250,28 C125,22 50,26 0,28 Z"/>
+    </path>
+  </g>
 </svg>

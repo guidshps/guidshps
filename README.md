@@ -4,22 +4,30 @@ Hi, I'm Guilherme. I'm a computer engineer undergraduate interested in low-level
 
 --- 
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
-### Languages
-![C](https://img.shields.io/badge/C-FFB45B?style=for-the-badge&logo=c&logoColor=1F2A33)
-![Python](https://img.shields.io/badge/Python-FFB45B?style=for-the-badge&logo=python&logoColor=1F2A33)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-FFB45B?style=for-the-badge&logo=c&logoColor=1F2A33" alt="C">
+  <img src="https://img.shields.io/badge/Python-FFB45B?style=for-the-badge&logo=python&logoColor=1F2A33" alt="Python">
+</p>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-6E8285?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-6E8285?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-### System & Version Control
-![Linux](https://img.shields.io/badge/Linux-4B3F3E?style=for-the-badge&logo=linux&logoColor=FFB45B)
-![Git](https://img.shields.io/badge/Git-4B3F3E?style=for-the-badge&logo=git&logoColor=FFB45B)
+<h3 align="center">System & Version Control</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-4B3F3E?style=for-the-badge&logo=linux&logoColor=FFB45B" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-4B3F3E?style=for-the-badge&logo=git&logoColor=FFB45B" alt="Git">
+</p>
 
-### Tools
-![Make](https://img.shields.io/badge/Make-1F2A33?style=for-the-badge)
-![Valgrind](https://img.shields.io/badge/Valgrind-1F2A33?style=for-the-badge)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Make-1F2A33?style=for-the-badge" alt="Make">
+  <img src="https://img.shields.io/badge/Valgrind-1F2A33?style=for-the-badge" alt="Valgrind">
+</p>
 
 
 ---

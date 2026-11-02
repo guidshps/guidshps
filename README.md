@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 65" preserveAspectRatio="none" width="100%" height="40">
+<img src="./onda.svg" width="100%" height="40" />
   
 <div align="center">
   <a href="https://git.io/typing-svg">

@@ -1,4 +1,4 @@
-<img src="./onda.svg" width="100%" height="40" />
+<img src="./onda.svg" width="100%" height="50" />
   
 <div align="center">
   <a href="https://git.io/typing-svg">

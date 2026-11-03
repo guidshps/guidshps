@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=C79A73&center=true&vCenter=true&width=435&lines=Computer+Engineer+Undergraduate&repeat=false" alt="Title SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=C79A73&center=true&vCenter=true&width=365&lines=Computer+Engineer+Undergraduate&repeat=false" alt="Title SVG" />
 </p>
 
 ---

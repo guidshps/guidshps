@@ -22,6 +22,8 @@
   </a>
 </div>
 
+---
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-FFB45B?style=for-the-badge&logo=c&logoColor=1F2A33" alt="C">
